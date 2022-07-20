@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-assignment1/static/css/main.1a5311b4.css",
+    "main.js": "/react-assignment1/static/js/main.b24ed2b5.js",
+    "static/media/growing-up-woman.svg": "/react-assignment1/static/media/growing-up-woman.a158584281f99f0d709c59ea4dee167e.svg",
+    "static/media/growing-up-man.svg": "/react-assignment1/static/media/growing-up-man.5024153b1b81cd13bdb8e51fd323551f.svg",
+    "static/media/email.svg": "/react-assignment1/static/media/email.e1f03bb9d1dbef90d259181ea9c9aef7.svg",
+    "static/media/location.svg": "/react-assignment1/static/media/location.0b7d98ab7b9d5092303dd3951b4649a7.svg",
+    "static/media/phone.svg": "/react-assignment1/static/media/phone.d017e1ae418c694ba9148c0a9001609c.svg",
+    "index.html": "/react-assignment1/index.html",
+    "main.1a5311b4.css.map": "/react-assignment1/static/css/main.1a5311b4.css.map",
+    "main.b24ed2b5.js.map": "/react-assignment1/static/js/main.b24ed2b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a5311b4.css",
+    "static/js/main.b24ed2b5.js"
+  ]
+}
